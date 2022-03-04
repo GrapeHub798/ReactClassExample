@@ -1,0 +1,13 @@
+.pointer {
+    cursor: pointer;
+}
+
+.cell {
+    flex: 1 0 18%;
+    margin: 5px;
+    min-width: 235px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
